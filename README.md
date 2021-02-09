@@ -9,3 +9,4 @@ lyric link: https://api.lyrics.ovh/v1/:artist/:title
 
 example: https://api.lyrics.ovh/v1/Adele/Hello
 # hard-rock-music
+live link : https://tarek421.github.io/hard-rock-music/index.html
